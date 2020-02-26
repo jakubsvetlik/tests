@@ -1,0 +1,18 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "web tests in testcafe",
+  "main": "show-pictures.test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jakubsvetlik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakubsvetlik/tests/issues"
+  },
+  "homepage": "https://github.com/jakubsvetlik/tests#readme",
+  "dependencies": {
+    "testcafe": "1.8.2"
+  }
+}
