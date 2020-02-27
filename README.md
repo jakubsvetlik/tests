@@ -10,12 +10,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-```
+
 1. [Node.js](https://nodejs.org/en/) - Open Source using Javascript
 2. Open cmd with administration rights and type: npm install -g testcafe
 3. [Visual Studio Code](https://code.visualstudio.com/download) - Running the .js files and tests (Not required)
 
-```
 
 ## Running the tests
 
