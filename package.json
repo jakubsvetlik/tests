@@ -13,6 +13,6 @@
   },
   "homepage": "https://github.com/jakubsvetlik/tests#readme",
   "dependencies": {
-    "testcafe": "1.8.2"
+    "testcafe": "^1.8.2"
   }
 }

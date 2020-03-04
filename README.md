@@ -32,7 +32,7 @@ This web testing is used to check whether certain functions on the web are worki
 
 ## Authors
 
-* **Jakub Světlík** - *Initial work* - https://github.com/jakubsvetlik)
+* **Jakub Světlík** - *Initial work* - https://github.com/jakubsvetlik
 
 ## License
 
