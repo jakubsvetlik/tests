@@ -1,0 +1,19 @@
+{
+    "name": "testing",
+    "version": "1.0.0",
+    "description": "Adding goods into basket",
+    "main": "tests/add-to-basket.test.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "jakubsvetlik",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/jakubsvetlik/testcafe-examples/examples/currys-example/issues"
+    },
+    "homepage": "https://github.com/jakubsvetlik/testcafe-examples/examples/currys-example/testcafe/add-to-basket#readme",
+    "dependencies": {
+      "testcafe": "^1.8.2"
+    }
+  }
+  

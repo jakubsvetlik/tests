@@ -9,9 +9,9 @@
   "author": "jakubsvetlik",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jakubsvetlik/tests/issues"
+    "url": "https://github.com/jakubsvetlik/issues"
   },
-  "homepage": "https://github.com/jakubsvetlik/tests#readme",
+  "homepage": "https://github.com/jakubsvetlik#readme",
   "dependencies": {
     "testcafe": "^1.8.2"
   }
